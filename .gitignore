@@ -1,0 +1,6 @@
+data/
+gender_data/
+__pycache__/
+.ipynb_checkpoints/
+results_bert-base-uncased/
+results_distilbert-base-uncased/
